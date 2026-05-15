@@ -1,0 +1,5 @@
+DEFAULT_LOOKBACK_DAYS = 30
+
+ON24_TASK_QUEUE = "on24-ingestion-prod"
+
+WORKFLOW_NAME = "On24MasterWorkflow"
